@@ -1,0 +1,1 @@
+This folder contains files for a newly generated 'sales' database in MySQL. This database is only a sample database, and is NOT the primary database used to conduct analysis. The purpose of creating a sample database is to test the key elements of the Data Definition Language (DDL). The relationship schema can be found in the "sample_db_schema.jpg" image file. 
