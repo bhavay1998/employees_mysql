@@ -7,9 +7,9 @@ This folder contains files for a newly generated 'sales' database in MySQL. This
 
 ## About the <i>sales</i> database
 The <i>sales</i> database contains 4 tables:
--<i>customers</i>
--<i>companies</i>
--<i>products</i> 
--<i>sales</i>
+- <i>customers</i>
+- <i>companies</i>
+- <i>products</i> 
+- <i>sales</i>
 
 The <i>sales</i> table contains sales records of a retailer who specialises in consumer products (CPG retailer).
