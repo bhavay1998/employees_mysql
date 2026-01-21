@@ -7,7 +7,7 @@ The script used to develop the <i>employees</i> database is "employees_db_creati
 The sample data was later adapted for broader use, and the XML-based dataset was converted into a relational schema by Patrick Crews and Giuseppe Maxia:
 - https://dev.mysql.com/doc/employee/en/employees-introduction.html
 
-The database creation is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License. To view a copy of this license, visit: 
+The resulting Employees sample database is distributed and maintained by MySQL for educational and demonstration purposes. The database creation is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License. To view a copy of this license, visit: 
 - http://creativecommons.org/licenses/by-sa/3.0/ <br>
 or send a letter to: [Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.]
 
