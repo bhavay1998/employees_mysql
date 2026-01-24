@@ -1,7 +1,7 @@
 # employees_MySQL
 
 ## About the database
-The script used to develop the <i>employees</i> database is ```diff - employees_db_creation.sql ```. The dataset originated from academic research by Fusheng Wang and Carlo Zaniolo (2005), which focused on representing and querying historical database data using XML:
+The script used to develop the <i>employees</i> database is ```employees_db_creation.sql```. The dataset originated from academic research by Fusheng Wang and Carlo Zaniolo (2005), which focused on representing and querying historical database data using XML:
 - https://link.springer.com/article/10.1007/s11280-005-1317-7
 
 The sample data was later adapted for broader use, and the XML-based dataset was converted into a relational schema by Patrick Crews and Giuseppe Maxia:
