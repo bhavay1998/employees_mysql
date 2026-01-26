@@ -7,4 +7,6 @@ The script used to develop the <i>employees</i> database is ```database/employee
 The sample data was later adapted for broader use, and the XML-based dataset was converted into a relational schema by Patrick Crews and Giuseppe Maxia:
 - https://dev.mysql.com/doc/employee/en/employees-introduction.html
 
+The schema for the ´´employees´´ database can be viewed here: [https://github.com/bhavay1998/employees_MySQL/blob/main/database/employees_db_schema.jpg]
+
 The resulting employees sample database is distributed and maintained by MySQL for educational and demonstration purposes. The database creation is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License. To view a copy of this license, visit: http://creativecommons.org/licenses/by-sa/3.0/
